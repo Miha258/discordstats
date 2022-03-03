@@ -1,1 +1,1 @@
-worker: dotnet run Program.cs
+worker: dotnet run discordBot.sln
