@@ -1,1 +1,1 @@
-worker: dotnet run discordBot.sln
+worker: dotnet --version
