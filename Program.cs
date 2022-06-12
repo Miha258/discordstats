@@ -28,7 +28,7 @@ namespace DobbiKovDiscordBot
 
             client = new DiscordSocketClient(config);
 
-            string token = "OTQ4ODg4NDQyMDM5ODI4NTEw.YiCXOg.LKBK-Y13e0EQrKpVK9e4QNv_tD0";
+            string token = "";
 
             client.Log += clientLog;
             client.Ready += Ready;
